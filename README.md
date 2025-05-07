@@ -14,5 +14,5 @@ Welcome to my GitHub! I am a backend developer specializing in API management an
 - Learning Salesforce Basics  
 
 ## 📫 Contact Me
-- 📧 carlosmontiel20678@gmail.com  
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/carlos-montiel-b5069517/)
+- 📧 carlosmontiel20678@gmail.com
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/carlos-montiel-b5069517b/)  
