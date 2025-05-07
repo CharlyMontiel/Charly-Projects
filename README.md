@@ -1,18 +1,16 @@
-# Carlos Montiel | Backend Developer
+# Charly-Projects | Project Portfolio
 
-**IT Support Specialist | Backend Developer | API Management | Database Management | Python | .NET Enthusiast**
+Welcome to my project portfolio! Here you will find a collection of my development projects, showcasing my skills in backend development, API management, and database management.
 
-Welcome to my GitHub! I am a backend developer specializing in API management and database administration. Currently, I am actively practicing and expanding my skills in backend development, API management, and cloud technologies, focusing on Python, .NET, and Salesforce.
+## 🚀 Featured Projects
+- **API for Gift Cards Management (FastAPI, SQL Server)** - A secure API for managing gift card balances.
+- **Learning Salesforce Basics** - Exploring Salesforce development and API integrations.
 
-## 🔧 Skills
+## 🔧 Skills Demonstrated
 - API Development (FastAPI, .NET)  
 - Database Management (SQL Server)  
 - Backend Development (Python, .NET)  
 
-## 📌 Current Projects
-- API for Gift Cards Management (FastAPI, SQL Server)  
-- Learning Salesforce Basics  
-
 ## 📫 Contact Me
-- 📧 carlosmontiel20678@gmail.com
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/carlos-montiel-b5069517b/)  
+- 📧 carlosmontiel20678@gmail.com  
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/carlos-montiel-b5069517b/)
